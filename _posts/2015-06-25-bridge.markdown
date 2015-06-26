@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Open Source Bridge"
+date:   2015-06-25 20:00:00
+categories: tech,speaking
+---
+Earlier this week, I gave a talk at [Open Source Bridge](http://opensourcebridge.org/). It was entitled [What Are Computers, Really?](http://opensourcebridge.org/sessions/1519) and was, basically, an attempt to distill some of the basic ideas about computation, the Church-Turing thesis, and the existence of inherent limits to computability.
+
+This was actually the talk I'd planned to give last year when I ended up getting really sick and losing my voice the day before my talk. Well, this time I gave it and my [slides](https://github.com/clarissalittler/osbridge-2014) are up on GitHub.
+
+I was pretty happy with how things turned out and, given the feedback, I think I hit a decent balance of accessible and informative.
+
+One thing that I wasn't entirely pleased with is that I didn't really get to explain what corecursive programs are and what it means to be "productive". Instead, I sorta merged terminating and productive together into "finite process" with rhetorical sleight of hand. The other slight oversimplification was with Rice's theorem, but I don't *think* I said anything badly deceitful.
+
+In the end, though, the audience seemed to enjoy themselves, I got a lot of good questions, and I got some complements so I think it went well.
+
+Now, I think I need to take it easy for a few days before I throw myself head long into the Next Thing.
