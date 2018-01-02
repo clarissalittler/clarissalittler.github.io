@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Clarissa is a PhD student working at Portland State University. Her primary interests are
+I'm a programming and computer science educator based in Portland, OR. I currently work for [Pixel Arts Game Education](http://gameeducationpdx.com).
+
+In a former career, my academic interests and research was in:
 
 + higher-dimensional type theories
 + mathematical logic
