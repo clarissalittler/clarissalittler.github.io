@@ -19,7 +19,7 @@ Let's summarize the ideas so far:
 -   Constitutive feelings build a person's ability to relate to the world around them, both in their understanding of it and the interface of objects within it&#x2014;what you can do with the things around you
 -   This view of the world in terms of understanding, past, future prediction, and interface is what's called the *phenomenal horizon*
 -   Many&#x2014;most?&#x2014;mental illnesses can be understood as existential feelings that lead to a horizon that is lacking in some ability to relate to the self, others, and the rest of the world
--   Much of what we consider separate mental illnesses are actually on a spectrum: the difference between the Cotard delusion and depression is mostly one of degree and ability to express the horizonal loss experienced
+-   Much of what we consider separate mental illnesses are actually on a spectrum: the difference between the Cotard delusion (the expressed profession that one is "dead" or "not real") and depression is mostly one of degree and ability to express the horizonal loss experienced
 -   Delusions are not propositional statements but are non-literal, poetic, ways of conveying experiences that are not straightforwardly explained in language
 -   The phenomenologic understanding of subjectivity gives us a theoretical underpinning to the ideas of the early mad movement
 
