@@ -1,0 +1,48 @@
+
+---
+layout: post
+title:  "The Hierarchy of Needs: what Maslow actually said?"
+date:   2020-05-28 19:00:00
+categories:
+---
+
+How many times have you seen something that looks like this?
+![img](./maslow.jpg)
+
+In educational, social work, and psychology circles this pyramid is pretty ubiquitous. The general interpretation goes something like
+
+-   Everyone has a sequence of needs that is ordered universely
+-   Lower needs must be met before the higher needs can be met
+-   Things like learning and creativity exist at the highest level, self-actualization
+
+Okay! That's pretty simple and easily understood. It is, however, obviously wrong and not even what Maslow said in his paper [A theory of human motivation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.318.2317&rep=rep1&type=pdf). Why do I say obviously wrong? Well, consider: isn't it obvious that people are, in fact, capable of creativity, learning, and personal growth even when insecure in their "lower" needs? This naive interpretation would imply that only the best kept, most privileged members of a society are capable of having love, self-esteem, or a fulfilling life.
+
+Now if you're reading this post so far and thinking "what, why would anyone interpret Maslow that way?" I have to stress that I have attended *three* trainings for educators and teachers **this spring alone** that have spread this myth. It's shockingly common and very wrong.
+
+How do I know it's wrong? Well, I did something strange and actually read Maslow's paper! So for the rest of this post I'm mostly going to summarize Maslow's actual claims, some context of what he's arguing against, and offer my own thoughts on the implications for educators. In the interest of practicing what I'm preaching, though, I *highly* recommend you at least give the paper a skim through. It's a very non-technical, plain spoken paper. 
+
+The first thing I want to point out is that Maslow was arguing in the context of early behaviorism, at a time where there were Very Serious People who believed things like 
+
+-   interiority is an illusion and a by-product of entirely deterministic mechanisms
+-   all actions humans take are driven by a lack in a physiologic need, through mechanisms attempting to establish a state of equilibrium
+
+I think keeping this in mind will help make clear what the *actual* contribution of Maslow's work is: he's taking subjective experience and desire seriously & attempting to account for things that are obvious human needs that don't fit neatly into physiologic lack.
+
+Next, I want to point out an important point of what he's describing: which is that this is a theory of *motivation*. If any presentation describes Maslow's hierarchy as "these needs need to be met before those needs can be met" they are in the wrong. This is **entirely** about what needs a person will *seek* to fulfill and their relative feeling of importance.
+
+The hierarchy isn't even a strict hierarchy! It's just relative trends based on which needs dominate which in emergency situations. If you're literally starving, that's **likely** to take priority over every other need. If you have food and water, but feel in immediate danger that's **likely** to take priority over seeking out friends to hang out with or working on your art. 
+
+Maslow spends a fair bit of his paper talking about exceptions and complications to this. For example, he talks about how there are people for whom expressing themselves creatively will override almost every other possible need. He also talks about how your response to severe lack is dependent on your experience with having your needs met. In other words, **if** you're a person who hasn't had to deal with long-term lack of food, safety, etc. you're going to have an easier time defying these tendencies. What else can mess with the hierarchy? Principles and ideals! Yes, he explicitly says that moral principles give people the scaffolding needed in order to pursue higher goals while being deprived of more urgent needs.
+
+Alright, so I think we've established pretty solidly that Maslow wasn't making an argument about how needs *must* be fulfilled but rather about *tendencies* for how needs are pursued, as a part of arguing against very naive behaviorism.
+
+I want to transition now to the fact that, in addition to misunderstanding the nature of the hierarchy and how to interpret it people also frequently misunderstand the nature of what the individual needs **are**. In particular, let's address the second level need of *safety*.
+
+Safety is generally presented as physical safety or, at the very least, a feeling of safety. The way educational presentations of the hierarchy of needs go, learning can't take place until needs like safety have been met. 
+
+What if I told you that "safety" also included things like: routine, a sense that the world is ordered, **and** understanding of the world around you. Yes, the attainment of knowledge and understanding, both scientific and religious, is considered a part of meeting the need of safety. Maslow's argument for this is somewhat clever: he makes the case that people are frequently willing to risk their *physical* safety in the pursuit of knowledge, which means that they're trading one form of safety for a different aspect of pursuing safety.
+
+This has an interesting implication. It makes teachers responsible for safety needs in *multiple* ways. Not only are we being asked to keep youth physically safe in their school environment but that we are to help given them a sense of the world as comprehensible, sensible, as well.
+
+Now, wrapping up I want to be super clear that I'm not claiming that Maslow gives us some perfect model of motivation that should be adhered to. My *only* point is that what most people claim Maslow said **isn't what he said** and is also deeply, obviously wrong. This somewhat polemical post came out of my frustration at hearing this misunderstandings repeated again and again, and not any particular love for Maslow.
+
