@@ -6,7 +6,7 @@ categories:
 ---
 
 How many times have you seen something that looks like this?
-![img](./maslow.jpg)
+![img](/assets/maslow.jpg)
 
 In educational, social work, and psychology circles this pyramid is pretty ubiquitous. The general interpretation goes something like
 
