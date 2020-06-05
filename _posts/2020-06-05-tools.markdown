@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Making tools nicer to use"
+date:   2020-06-05 13:00:00
+categories:
+---
+
+
+
+This is going to be another short post. I'm working on a post on mathematical intuition based off of an old paper by Richard Tieszen but, at the moment, it's taking me longer to write than I'd like and I have to worry about my [beeminder goal](https://www.beeminder.com/clarissalittler/blagposts) for blog writing so here I am writing something else.
+
+In my [last post](http://clarissalittler.github.io/2020/06/01/dysfunction-defaults.html), I mentioned that I've found using a notebook has become a sustainable default path for me, something that I can keep up with over a long period no matter how bad my executive dysfunction is. I was neglected an important piece, though, which is the *pleasure* of it. I almost exclusively use fountain pens or *nice* pencils and notebooks with Tomoe River paper. This makes writing not only a thing that is easy on my hands, my original reason for moving to fountain pens in the first place, but also something that has a lot of really important tactile and visual appeal. It *feels* good to write, which sometimes means that I will write even when I don't want to to watch a pretty ink be layed down on the page & feel the glide of a smooth pen. 
+
+This got me thinking, though, about the tools we have students use in primary and secondary education. Are they ever *nice* to use? I mean that. I remember everything being very utilitarian and cheap. Now, there are good reasons for that in some sense: schools are always underfunded and teachers have to buy their own supplies. So while I wish I could have some simple bullet journals and Pilot Varsity's for youth, I know that 15$ of supplies per student is still a lot to ask. On the other hand, this isn't just about physical objects like pens & notebooks but also even the software we have students use.
+
+Is something like Scratch *nice* to use? Are any of the software tools we use sensorially pleasing? I don't know if they are. Obviously, I can't speak for everyone but I've never sat down and thought "ah, yes, this is nice" with most of the things that I've used to teach. 
+
+What would potentially make them better to use? One of the things that occurs to me is customization. One of the reasons why I've stuck with writing in Emacs all these years is how much I can configure it. I can change the theme, customize key commands, etc. 
+
+Can you imagine if you could customize your Scratch account so that blocks are in the orders you want and the colors you want or the screen layout is the way you like & with the right proporitions for you personally.
+
+This is, I suppose, a part of my views on conviviality and the idea that tools should adapt to people not people to tools. 
+
