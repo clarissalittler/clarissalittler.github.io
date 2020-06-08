@@ -6,7 +6,7 @@ categories:
 ---
 
 
-In this post I'm going to be talking a bit about the paper [Epistemological Pluralism](http://www.academia.edu/download/31043076/turklePapert.pdf), by Sherry Turkle and Seymour Papert&#x2014;two researchers into education and technology that I deeply respect&#x2014;and how I think it ties into a lot of ideas I've been having from studying more about the phenomenology of mathematics & my own writing on the phenomenology of computation. 
+In this post I'm going to be talking a bit about the paper [Epistemological Pluralism](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/494648), by Sherry Turkle and Seymour Papert&#x2014;two researchers into education and technology that I deeply respect&#x2014;and how I think it ties into a lot of ideas I've been having from studying more about the phenomenology of mathematics & my own writing on the phenomenology of computation. 
 
 The point of this paper is that it sets up a dichotomy between how programming was often *taught* as an entirely formal & linguistic activity but programmers actually demonstrate a variety of approaches and relationships to the act of programming&#x2014;some much more exploratory, informal, and driven by subjective feeling than others.
 
