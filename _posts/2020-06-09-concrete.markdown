@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Concrete & Abstract: an addendum to epistemological pluralism"
+date:   2020-06-09 11:45:00
+categories:
+---
+
+
+So I want to add a few more thoughts based on my [post yesterday](http://clarissalittler.github.io/2020/06/08/epistemology.html) on the epistemological pluralism paper. 
+
+Namely, that I think one of the big weaknesses of the paper is that they present the "structured programmer" vs. the "bricoleur" as an exclusive binary, practically a virgin vs. chad meme in academic form. I think that's an oversimplification.
+
+I think there are at least four separate things that are being conflated here:
+
+-   the use of mathematical vs. perceptual intuition
+-   abstract vs. concrete views of objects
+-   planned vs. exploratory programming
+-   objective vs. subjective relationship to the code
+
+I think these are all worth distinguishing from each other and, further, acknowledging that all of these are spectrums of behavior not binaries. For example, we all use abstraction to *some* extent or else thoughts aren't capable of being applied outside the instant of their thinking. We all engage with objects with some recognition of what they are or else we'd never be able to use anything. We all view some things from a subjective perspective and others from an objective. And we definitely all use a mixture of planning and exploration.
+
+I do agree with the basic premise, though, that the way programming is taught tends to favor one&#x2014;or maybe a few&#x2014;points in this larger spectrum. Which is obviously bad because people should be allowed to think in the ways that they feel comfortable thinking. The Turkle & Papert paper explicitly talks about how being forced into uncomfortable ways of thinking about a problem, out of their comfortable modes that aren't *wrong* just *different*, causes alienation from the subject. It's harder to care about programming and making when you are constantly working against yourself to do it.
+
+I want to expand a little on an idea they only start to touch on in the paper: how do *programming languages* bias us towards points on this 4d spectrum?
+
+I think you could argue that there are some general trends like languages like Haskell push in the direction of
+
+-   Exploratory
+-   Mathematical intuition
+-   Abstract objects
+-   Objective view of objects
+
+meanwhile a big framework-y language like Java might be more like
+
+-   Planned
+-   Mathematical intuition
+-   Abstract objects
+-   Subjective view of objects
+
+but a object-oriented Smalltalk you might argue shifts from "planned" to "exploratory" and  "mathematical intuition" to  "perceptual intuition".
+
+These are approximate guesses based on my experience with these languages, *not* an actual taxonomy to be clear. 
+
+I think this is why, after all this time, I keep finding myself drawn to macro-laden languages like the lisp family or why I've been finding Forth interesting. Languages where you have a lot of flexibility to adapt the language to your thinking are interesting, even if they aren't what I've done most of my projects in.
+
+But what conclusions can we take from here? Do we move towards one super-language that's not biased in any direction, where you can adapt it to any form of thinking? Do we encourage a massive number of programming languages each strongly-opinionated towards some place on this spectrum?
+
+As a former PL person I think the latter *sounds* appealing, but then we have the problem of collaboration. If we go with the former, we'd need to make something like macro programming actually suitable for beginners first learning programming.
+
