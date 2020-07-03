@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bloated software & the degradation of devices: a social and ecological problem"
-date:   2020-06-09 15:30:00
+date:   2020-06-17 15:30:00
 categories:
 ---
 
