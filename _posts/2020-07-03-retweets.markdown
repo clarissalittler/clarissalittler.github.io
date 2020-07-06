@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Retweets were a mistake"
+date:   2020-07-03 0:30:00
+categories:
+---
+
+So this is a small thing that hit me just this morning: retweets *were a mistake*. Now, do I mean the ability to share things on social media was a mistake? No, not **entirely**. The original retweet was an organic thing developed *by Twitter users* rather than the platform per se. You would copy the text of the tweet you wanted to amplify and preface it with "RT" and the handle of the person whose tweet it was as attribution. It was more like blockquoting than the modern idea of retweeting/reblogging/sharing someone else's content. 
+
+Twitter eventually codified the RT into the platform itself, making it a part of the metadata of a tweet and causing the retweet to be a link back to the original rather than effectively a quotation. I'm arguing that they should have left well enough alone. It took me awhile to come to this conclusion, but I've been trying to think a lot about *how* we use social media and whether we're doing it in a way that makes any sense. 
+
+In the 00s, Facebook was for short updates about how you were doing (as well as engaging in dumb memes like "poke"ing your friends), Tumblr was a blogging platform, and Twitter was a "microblog" for sharing very, very short updates & thoughts---potentially over SMS, as smartphones didn't even exist at the time. 
+
+I don't think it's inherently bad that social media evolved beyond those simple beginnings, but the problem is that what they are now is deeply *anti-social* in structure. I'm going to come out and say that ways to share content onto your own feed/dash/timeline shouldn't be a part of social media. The web already gave us a tool for sharing and that's *the hypertext link*. We don't really need to be using other ways of sharing, especially not ones that are *easier* than using our own words. I'd much rather us use links because links at least push us to say a few words about *why* we are leaning on someone else's voice.
+
+I think this is why, despite the fact that I think I'm in the minority, I like quote-retweeting on twitter. I think it's nice, even respectful, to actually **engage** with the content you're sharing rather than just passing it along.
+
+When we're relying on rapidly sharing other people's words it also encourages some really strange dynamics, pushing some people into the role of **influencer** where they accumulate more followers and more ability to shape narratives. That's a terrible thing, because who gains influence and follows is almost always an accident---a set of contingencies and coincidences that aren't only not meritocratic but are essentially just random. Like rivulets of rain down a window, the actual path that gets formed has almost no deep meaning to it and not moral significance: future drops follow the path because it is there not because it is good.
+
+It's a morally neutral phenomenon when it comes to networks and paths that form inanimately, but it's far scarier when it involves people. Hell, I'd argue that without these dynamics on social media we wouldn't even have had a Trump presidency, gamer gate, or the rot13(dnaba) conspiracy movement. Or, at least, I think a more individual-voiced social media would have made it far less easy for these to coalesce. 
+
+And, to be clear, I understand that celebrity and gaining followers didn't just get invented in 2010 and beyond. What I mean, though, is that there's a feedback loop where it becomes *very easy* to become a person who has outsized influence by crafting opinions that people want to share. I don't think that's healthy, even when it's not involving spreading conspiracy theories or disinformation. 
+
+So, yes, that's my polemical argument for why I think we shouldn't have had retweets and why, in the end, I think having to manually link content is probably better for all of us.
