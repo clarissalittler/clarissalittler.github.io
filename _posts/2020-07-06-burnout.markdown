@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Book review: Burnout"
+date:   2020-07-06 15:30:00
+categories:
+---
+
+So in this post I want to talk about a book from a couple of years ago: [Burnout: The Secret to Unlocking the Stress Cycles](https://www.penguinrandomhouse.com/books/592377/burnout-by-emily-nagoski-phd-and-amelia-nagoski-dma/) by the Nagoski sisters.
+
+First, I want to say something fairly critical and then get it out of the way. This is a very *frustrating* book. It's not *bad*, but it's frustrating and even irritating at times. Part of that is the tone. It's written in the "hey hun #bossbabe" tone of an MLM pitch, full of references to Harry Pottery and the Hunger Games in ways that felt instantly dated and awkward & an overall "*hey girlfriends!*" friendliness that really grated on me. For example, every time they say "patriarchy" they follow it with "(ugh!)". I'm being very serious, the idiom in this text is "patriarch (ugh!)". There's also cutesy phrases like "the bikini industrial complex" that are just, well, *doofy*.
+
+Finally, I have some pretty serious philosophic differences from this book. It borders on evo-psych, frequently referencing that various experiences are evolutionary adaptations in ways that I don't think are particularly defendable.
+
+All this being said, I'm going to try and recast what I think are the good parts of the book into my own language, but know that if you read the original there's a lot to find grating within it.
+
+So the book *Burnout* is fundamentally about the idea that that burnout is not a state that comes directly from stress but *rather* stress that doesn't get properly handled. What's "properly handled stress"? That's a good question and one I feel the book is pretty shaky on. They give examples involving running from lions and getting your village to help you kill the animal.
+
+In my own words, I think the idea is that stress that ends in predictable, expected, ways is properly handled. If you know the way the situation needs to be dealt with and you deal with it, that's not a traumatizing or damaging kind of stress. Rather, it's one that is satisfying and leads to growth and confidence. The damaging kind of stress is either unresolved entirely, like when you find yourself stuck trying to argue with your abusive parents or a cruel boss with whom you couldn't get a word in edgewise, or it was resolved in a way that leaves you with lots of "what ifs?". When there's no resolution you just get stuck trying to imagine resolution again and again. When the resolution feels precarious, you're just stuck thinking about how easily it could have *not* gone well, how easily something terrible could have happened. The fear doesn't have a replicable resolution, basically.
+
+In the chapters on *how* to resolve stress properly, the book feels very CBT influenced because, for better or worse, there's a lot of emphasis on the idea of reframing experiences. There are places where I think that's more helpful than others. For example, their discussion of PTSD is pretty shallow & only applies to people who experienced single traumatic incidents and then had support systems to help them reframe the traumatic event as a source of growth, something they overcame.
+
+On the other hand, reframing is pretty useful when we're talking about things like expectations of ourselves. Unresolved stress can come from not being able to resolve the difference between where you expected to be in your work versus where you are. If you expected something to be easier than it is, that can cause stress that doesn't have a simple resolution **unless** you reframe the difficulty as an opportunity or a lesson, something that puts you into a greater sense of control over the situation.
+
+The rest of the advice on resolving stress is good but pretty standard. Give yourself times to exercise, spend time with intimate partners and close friends, and the room to put down all of the stressors and get the tension out of your body.
+
+There's hints of the stoic dichotomy of control sprinkled in these discussions, emphasizing the need to focus on the things we can affect as opposed to the ones that are outside of our power. These are decent ideas, even if sometimes they lean on a "look on the bright side" attitude that only works when there, well, *is* a bright side.
+
+Here's the actually interesting idea that I think is worth pulling out of the book: that there are people who---by the nature of our culture and expectations---are not given the space to resolve their stress. The book focuses on (cis) women as the class of people for whom this is true, but I think that's a missed opportunity as it's a bit broader. I'd argue that just being marginalized at all in a culture with systems of oppression leaves you without the room to take what you need to prevent burnout.
+
+That isn't to say that it *isn't* women who get asked to sublimate their needs to the needs of others, just that I don't think the situation divides as neatly as **only** women.
+
+The parts of the book that are looking at these dynamics are the most interesting in the book. I'd say that the insight that hit me hardest was noting that we tell stories of people who are "independent", who don't rely on anyone else for their needs, but that *this is never true*. Behind every person who gets to tell a story of being a lone wolf, an island, are people who are taking on their needs invisibly in order to support this narrative. We can see this in every story of a college professor who relied on his wife to type and proofread his dissertation, at most giving a single line of thanks.
+
+So, did I *hate* Burnout? *No comma but dot dot dot* It was a frustrating book that was a mix of good advice, interesting social insights, and a lot of assumptions that the audience of this book is a cis woman who's mostly had a nice easy life but maybe struggles with her self-image and telling her husband "no." I think it could have been a lot more than this. Maybe someday someone will write **that** book.
