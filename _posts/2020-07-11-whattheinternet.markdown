@@ -44,6 +44,7 @@ I think the most interesting thing in the distributed web space, currently, is t
 Beaker runs over the hyper:// protocol (formally using dat://) and serves web pages across a peer-to-peer version of the web. Beaker acts not only as peer-to-peer distribution node, and a web browser that can move seamlessly between the p2p and "normal" web but is also capable of functioning as a perfectly capable HTML and CSS editor. If I sound gushing that's because I think it's a really, really cool bit of technology and the Beaker team has done great so far. I love everything connected to dat://, hyper://, and attempts to build p2p technologies.
 
 [The dat protocol page](https://dat.foundation/) 
+
 [The hyper protocol page](https://hypercore-protocol.org/)
 
 But! While I have nothing but heart eyes for this project
@@ -65,7 +66,9 @@ The Gemini protocol gets, uhh, divisive comments on spaces like Hacker News
 but I'm rather fond of it so far. It's not a replacement for the web, it's meant as a small, stripped down, simple system that's easy to implement and low on resource usage relative to a web server. I agree with the people who characterize Gemini as a more powerful gopher than a minimal http. It's not supposed to be able to do everything, and the point is that you don't need most of the complexity of the web.
 
 I've been simulblogging both on my github pages and my geminispace 
+
 [My github pages blog](https://clarissalittler.github.io) 
+
 [My geminispace](gemini://gemini.circumlunar.space/users/left_adjoint/)
 
 and, in fact, I wrote the gemini version of this post first and converted to github's markdown standard afterwards.
@@ -75,6 +78,7 @@ You can get a small amount of server space on gemini.circumlunar.space by reques
 Now, you don't only have to interact with gemini by running your own server or connecting to someone else's with ssh & sftp (although those are the most flexibile methods). I personally love the site gemlog.blue, which is for blogging in gemini, and they have a very simple web interface for creating accounts or adding entries---as I said, gemini isn't trying to be a replacement for http.
 
 [The web interface to the blogging site](https://gemlog.blue) 
+
 [The gemini interface](gemini://gemlog.blue)
 
 I have a more personal blog on this space that I've been updating regularly.
@@ -82,16 +86,21 @@ I have a more personal blog on this space that I've been updating regularly.
 Finally, I want to say a few words about rawtext.club
 
 [website for rawtext.club](https://rawtext.club) 
+
 [gemini site for rawtext.club](gemini://rawtext.club)
 
 This is an example of the kind of very small intentional community that I find kind of exciting. It's very minimalistic but it has all sorts of cool command line tools that have been built into it: things for journaling, writing internal "shell log" (shlog) posts, an internal asynchronous chat system, the room to host public web sites, gopher holes, and gemini spaces, and a lot more in terms of tools to write and make. Rawtext bills itself as "slow" internet, which I think is a fantastic perspective. I want slow. I want deliberate. I want to avoid. 
 
 What are other spaces? There are a number of "tilde" communities such as
+
 [tilde.town](http://tilde.town/) 
+
 [tilde.pink (via web proxy)](https://proxy.tilde.pink/cgi-bin/proxy.cgi?q=tilde.pink)
+
 [tilde.pink gemini site](gemini://tilde.pink)
 
 and many more available via listing on the tildeverse
+
 [The tildeverse](https://tildeverse.org/) 
 
 So what's my conclusion? Am I claiming these technologies or communities are perfect? Absolutely not. What I want to stress is that I want even more of these and I am very clearly far from alone in that desire. People are actively inventing and creating in the small internet space and it seems to be changing very quickly. The gemini protocol is only roughly a year old and its community is growing by the day.
