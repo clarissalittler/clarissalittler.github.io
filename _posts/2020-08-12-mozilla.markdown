@@ -1,0 +1,38 @@
+# Mozilla and the tradeoffs of complexity
+
+Most people who are on the developer side of things---and even a lot of people who aren't---have heard that Mozilla cut a quarter of their employees. Among the notable losses was the team working on their rendering engine in Rust.
+
+I don't want to talk about Mozilla per se. What I want to talk about is the lament I saw going around social media after the announcement: that the implication here is that now only Google and Microsoft are going to be the big players in the browser world from now on. Why? Because there's no way that someone could just make a web browser! To make a browser capable of handling the modern web you need a big team, money, a whole company.
+
+Now I'm not disagreeing with that conclusion. I think they're right. My conclusion, though, isn't that we need a new company but maybe that we need to strip the web back down to something much simpler.
+
+=> https://twitter.com/ClarissaAdjoint/status/1293579223152513024 The small thread I'm expanding
+
+## Computational capital
+
+I think an important concept in all of this is that computational capability *is* a kind of capital. Think about how many small companies and individuals have to rely on Amazon web services to host their code. Amazon is a kind of landlord, then, renting out the ability to perform computation. But also I mean that there's a lot of things that can only be done at scale---like the way a lot of machine learning techniques require huge quantities of data, server farms, &c. Sure our software and our machines are getting more powerful but we're hitting the point in the computational world that we hit in manufacturing two hundred years ago: people can't do things on their own to the same degree anymore, and when you don't get to have say in how the things around you are made, when there's higher and higher degrees of complexity and specialization & you're in a capitalist system that means that there's going to be accumulation of means of production. Big orgs ability to take on technical debt might function more like Uber's ability to keep getting funding despite billion dollar losses than it might first look.
+
+## I <3 Illich
+
+Much like how Illich makes the argument in Tools for Conviviality that we need to disentangle manufacturing apart from the intertwined global scale in order for us to gain community-autonomy, I'm arguing that we need to disentangle the computational infrastruture as well.
+
+To people who are reading this on the small internet, you're probably already on my side or close to it: the small internet is a way of being able to build and host our own tools again, closer to the wild, weird, and autonomous early internet.
+
+At first, I didn't fully appreciate Solderpunk's point in wanting Gemini clients to be implementable in only a hundred lines of code. It clicked in my head only after seeing all the laments about no one being able to make a web browser. Of course, I don't think it's *really* about the web. It's only in order to sustain the unsustainable. To me it directly parallels the kind of issues of sustainable computing Solderpunk talked about in their post
+
+=> circumlunar.space/users/solderpunk/gemlog/discussions-toward-radically-sustainable-computing.gmi toward radically sustainable computing
+
+Although, I'm concerned here less with environmental sustainability than autonomy. Why? Well, in a strange way because I'm worried about what if scenarios like Solderpunk are describing *doesn't* happen and rather than something big event and changes forcing us to re-adapt what if we end up having as little control over the computational world as the rest of capitalist controlled production? We already have such little control over the cruelty of the factories that make our garments and our smartphones. We similarly already have no control over social media services giving haven to neo-nazis or
+
+=> https://twitter.com/extrafabulous/status/1181406872286498816?s=21 banning people for having unpleasant feelings
+
+Now, to be clear I'm not saying that I'm *not* concerned about environmental impact but rather that others have written about the importance of it already. This is yet another argument for the deconstruction of entangled infrastructure, taking a different tack. Another pillar supporting the same goal. 
+
+## What do we do
+
+So I'm not saying the small internet as it stands is the solution to all of this, but I do think that we need something closer to Gemini than the modern machinery of web-browser-as-OS. I want to be able to reasonably use the web on lynx. I want video services like youtube to have sftp interfaces where we can browse playlists and channels like directories. I want us to actually use different protocols for different things. I'm not against using big chunky broad band to its fullest but I don't want that to be the default. I want to be able to work on the internet in "low power mode" where everything is just text and a few hundred kb of data over the course of an hour.
+
+I want it to be simpler. I want to have more control. I want everyone to be making their own browsers, servers, and weird protocols.
+
+I want the internet to be us and not just three websites full of screenshots of each other.
+
