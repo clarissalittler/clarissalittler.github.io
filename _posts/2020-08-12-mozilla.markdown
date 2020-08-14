@@ -11,7 +11,7 @@ I don't want to talk about Mozilla per se. What I want to talk about is the lame
 
 Now I'm not disagreeing with that conclusion. I think they're right. My conclusion, though, isn't that we need a new company but maybe that we need to strip the web back down to something much simpler.
 
-=> https://twitter.com/ClarissaAdjoint/status/1293579223152513024 The small thread I'm expanding
+[The small thread I'm expanding](https://twitter.com/ClarissaAdjoint/status/1293579223152513024)
 
 ## Computational capital
 
@@ -25,11 +25,11 @@ To people who are reading this on the small internet, you're probably already on
 
 At first, I didn't fully appreciate Solderpunk's point in wanting Gemini clients to be implementable in only a hundred lines of code. It clicked in my head only after seeing all the laments about no one being able to make a web browser. Of course, I don't think it's *really* about the web. It's only in order to sustain the unsustainable. To me it directly parallels the kind of issues of sustainable computing Solderpunk talked about in their post
 
-=> circumlunar.space/users/solderpunk/gemlog/discussions-toward-radically-sustainable-computing.gmi toward radically sustainable computing
+[Discussions Toward Radically Sustainable Computing](https://proxy.vulpes.one/gemini/gemini.circumlunar.space/users/solderpunk/gemlog/discussions-toward-radically-sustainable-computing.gmi)
 
 Although, I'm concerned here less with environmental sustainability than autonomy. Why? Well, in a strange way because I'm worried about what if scenarios like Solderpunk are describing *doesn't* happen and rather than something big event and changes forcing us to re-adapt what if we end up having as little control over the computational world as the rest of capitalist controlled production? We already have such little control over the cruelty of the factories that make our garments and our smartphones. We similarly already have no control over social media services giving haven to neo-nazis or
 
-=> https://twitter.com/extrafabulous/status/1181406872286498816?s=21 banning people for having unpleasant feelings
+[banning people for having unpleasant feelings](https://twitter.com/extrafabulous/status/1181406872286498816?s=21) 
 
 Now, to be clear I'm not saying that I'm *not* concerned about environmental impact but rather that others have written about the importance of it already. This is yet another argument for the deconstruction of entangled infrastructure, taking a different tack. Another pillar supporting the same goal. 
 
