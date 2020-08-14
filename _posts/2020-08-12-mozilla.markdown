@@ -1,4 +1,9 @@
-# Mozilla and the tradeoffs of complexity
+---
+layout: post
+title:  "Mozilla and the tradeoffs of complexity"
+date:   2020-08-12 15:00:00
+categories:
+---
 
 Most people who are on the developer side of things---and even a lot of people who aren't---have heard that Mozilla cut a quarter of their employees. Among the notable losses was the team working on their rendering engine in Rust.
 
