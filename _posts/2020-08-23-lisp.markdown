@@ -28,9 +28,6 @@ The primary two compilers that seem to be the most actively maintained are
 
 Emacs + [SLIME](https://github.com/slime/slime) still seems to be one of the best environments for developing in Common Lisp. In fact, I feel like there was more competition years ago, **but** on the other hand SLIME has gotten even better and easier to use than it used to be. The links on the homepage will get you set up with an up-to-date slime install in no time.
 
-
-<a id="org432cb37"></a>
-
 # Package management
 
 I remember back in the day there was a lot of talk about how to handle package management for common lisp, building off of the venerable ASDF system. Today, [Quicklisp](https://www.quicklisp.org/beta/) seems to be exclusive winner.
@@ -38,9 +35,6 @@ I remember back in the day there was a lot of talk about how to handle package m
 You can follow the instructions on the site to get set up or you can use Portacle, linked below.
 
 You can load packages with `(ql:quickload "systemname")` *but* if you're using quicklisp please note there's some slight complications to using `buildapp` to make stand-alone executables.
-
-
-<a id="org75a1952"></a>
 
 # Learning the language
 
@@ -50,15 +44,9 @@ A book that is **really** good is Edi Weitz's [Common Lisp Recipes](http://weitz
 
 The [Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) is a great free resource too, providing some nice current examples of how to do common tasks. In particular, I think its overview of web programming in common lisp is **fantastic**. 
 
-
-<a id="org453e5cf"></a>
-
 # Quick installation
 
 If you like the idea of emacs + slime + sbcl + quicklisp there's an easy installer called [Portacle](https://portacle.github.io/).
-
-
-<a id="org1de8f5d"></a>
 
 # Building executables
 
@@ -66,12 +54,12 @@ So I know that some people will argue that having a standalone executable is aga
 
 However, there's a couple of caveats. First, if you want to just compile a file you use the `--load FILENAME` option, which weirdly isn't obvious from the documentation. The next is that if you want to load libraries from Quicklisp, you need to do something a little roundabout. You can follow [this answer](https://stackoverflow.com/a/18918664) from stackoverflow by the creator of both Buildapp and Quicklisp, but I also want to throw out that you can create the manifest file **from within slime** by running the `(ql:write-asdf-manifest-file "quicklisp-manifest.txt")` command from Xach's answer at the REPL. It might not be obvious, but you don't have to do it by calling sbcl at the command line.
 
-
-<a id="orgc987736"></a>
-
 # Useful libraries
 
 Expect this segment to change as I discover/remember cool libraries
 
--   [bit-smasher](https://github.com/thephoeron/bit-smasher): a library for easily dealing with bit arrays
+[bit-smasher](https://github.com/thephoeron/bit-smasher): a library for easily dealing with bit arrays
+
+
+
 
