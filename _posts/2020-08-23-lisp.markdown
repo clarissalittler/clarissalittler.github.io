@@ -1,0 +1,77 @@
+---
+layout: post
+title: Using Common Lisp in 2020 (Updated 8/23/2020)
+date: 2020-8-23 13:30:00
+categories: 
+---
+
+So this is less of a normal blog post for me and more like a guide of a bunch of the small things I've been picking up lately. 
+
+# Background
+
+The tl;dr is that I've been trying to return to using Common Lisp more as my main side-project language, since I've been feeling stagnant mostly using Haskell as my side-language since college. I originally learned CL around the same time back then in the 00s, but other than working through some books and writing small things like little servers for personal use I didn't use it a **ton**. 
+
+Now that I'm using it more, there's lots of little things I've been learning that I think wouldn't be obvious to someone just trying to start out with the language: tricks, conventions, resources, links, &c. So I thought I might be able to save someone else some time if they want to delve into this world. I'll be updating this post as I learn more or if people offer suggestions.
+
+A site that's a lot more in-depth that what I'm writing here is [Articulate Lisp](http://articulate-lisp.com/). This post isn't a tutorial but more like a quick reference for where to get started.
+
+# Compilers
+
+The primary two compilers that seem to be the most actively maintained are
+
+-   [Steel Bank Common Lisp](http://www.sbcl.org/) which is the one I'm mostly familiar with *and*
+-   [Armed Bear Common Lisp](https://common-lisp.net/project/armedbear/) which is an implementation that runs on top of the JVM, which automatically draws comparisons with Clojure though ABCL is much much older.
+    
+    I can say that SBCL was the compiler I learned on back in the day and I'm using it now and it works amazing. I haven't used it much on Windows but I know *fairly* recent versions work on Windows. There are other compilers and if someone has opinions about things more obscure than
+
+# IDE
+
+Emacs + [SLIME](https://github.com/slime/slime) still seems to be one of the best environments for developing in Common Lisp. In fact, I feel like there was more competition years ago, **but** on the other hand SLIME has gotten even better and easier to use than it used to be. The links on the homepage will get you set up with an up-to-date slime install in no time.
+
+
+<a id="org432cb37"></a>
+
+# Package management
+
+I remember back in the day there was a lot of talk about how to handle package management for common lisp, building off of the venerable ASDF system. Today, [Quicklisp](https://www.quicklisp.org/beta/) seems to be exclusive winner.
+
+You can follow the instructions on the site to get set up or you can use Portacle, linked below.
+
+You can load packages with `(ql:quickload "systemname")` *but* if you're using quicklisp please note there's some slight complications to using `buildapp` to make stand-alone executables.
+
+
+<a id="org75a1952"></a>
+
+# Learning the language
+
+Good news! Peter Seibel's book [Practical Common Lisp](http://www.gigamonkeys.com/book/) is still available online. Since the basics of the language haven't changed, it's a good reference for basic syntax **but** it also is built around lisp implementations that haven't been updated in a very long time. I haven't checked which practicum still work as intended, but I wouldn't be surprised if there were issues with Allegro related libraries. The recommended quick-install, Lisp in a Box, also is deprecated. Fortunately, there are other quick installers that are actively maintained.
+
+A book that is **really** good is Edi Weitz's [Common Lisp Recipes](http://weitz.de/cl-recipes/). I borrowed this book from my library and after skimming it managed to build a small web server that ran on my rpi3 that connected together a bunch of my media tools and was controllable from my phone. It's a seriously well-written and clear book. It's not a language tutorial, but that's what you can use Practical Common Lisp for.
+
+The [Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) is a great free resource too, providing some nice current examples of how to do common tasks. In particular, I think its overview of web programming in common lisp is **fantastic**. 
+
+
+<a id="org453e5cf"></a>
+
+# Quick installation
+
+If you like the idea of emacs + slime + sbcl + quicklisp there's an easy installer called [Portacle](https://portacle.github.io/).
+
+
+<a id="org1de8f5d"></a>
+
+# Building executables
+
+So I know that some people will argue that having a standalone executable is against the spirit of lisp programming. But! I really like having something I can run on the commandline. Thankfully, the program [Buildapp](https://www.xach.com/lisp/buildapp/) is really useful for making executables out of sbcl. 
+
+However, there's a couple of caveats. First, if you want to just compile a file you use the `--load FILENAME` option, which weirdly isn't obvious from the documentation. The next is that if you want to load libraries from Quicklisp, you need to do something a little roundabout. You can follow [this answer](https://stackoverflow.com/a/18918664) from stackoverflow by the creator of both Buildapp and Quicklisp, but I also want to throw out that you can create the manifest file **from within slime** by running the `(ql:write-asdf-manifest-file "quicklisp-manifest.txt")` command from Xach's answer at the REPL. It might not be obvious, but you don't have to do it by calling sbcl at the command line.
+
+
+<a id="orgc987736"></a>
+
+# Useful libraries
+
+Expect this segment to change as I discover/remember cool libraries
+
+-   [bit-smasher](https://github.com/thephoeron/bit-smasher): a library for easily dealing with bit arrays
+
