@@ -1,0 +1,57 @@
+---
+layout: post
+title: Why I'm starting to prefer console programs
+date: 2020-9-1 15:00:00
+categories: 
+---
+
+So I've been using Linux since college, when I was introduced to Red Hat on the high energy physics servers once I was a research assistant. It was a little bit of a learning curve but I've mostly been using Linux ever since and haven't had any regrets except for the six months I was dealing with broken Gentoo installs in the 00s.
+
+_Seriously, what was I even thinking?_
+
+Even while being a power use of Linux for years now, I've largely used a mix of cli and full gui applications with the trend---like most people I think---of more and more of the services I use being in-browser, so that my browser becomes like a remote desktop into some different distibuted OS.
+
+That's been changing since I started using a raspberry pi3 as a home server for various things: for awhile there it was our media server for watching movies, streaming Twitch, &c. with a janky mess of custom servers and scripts tying together existing projects to work the way I wanted. For example, the interface was a simple web page we could visit on our phones that included a dedicated button to play this video:
+
+https://www.youtube.com/watch?v=wNARPPnJrMM
+
+As I've mentioned in previous posts, I'm spending a lot of time on the small internet: especially pubnixes like rawtext.club. This means I've been having to do a lot of things _only_ through the command line, even things that I hadn't thought of before like reading e-books, chatting, or maintaining & browsing collections of links. 
+
+This, combined with the fact that I want to stop handing kids locked down chromebooks as devices, has gotten me thinking a lot about the nature of most commandline tools as smaller, simpler, and more efficient & whether that can buy us something about giving kids the ability to work on lower-power but affordable computers _that still let them control the machines_.
+
+So I've been experimenting on my own with how much I can do from the command line, even working in the virtual terminals on my Linux laptop (accessible via ctrl-alt-f\# for distro dependent numbers) so that I'm not tempted to jump into the gui. 
+
+I'll talk more about it as a experience for low-powered machines once I've got this old acer aspire one netbook repaird, but for now I want to talk about it from the perspective of being a brain-weird person with a lot of executive dysfunction problems.
+
+I tweeted
+
+https://twitter.com/ClarissaAdjoint/status/1300162870739521536
+
+recently about why I don't like IDEs, as I was trying to reflect about what it is that bothers me about them. It's the noise! Visual noise, I mean. I've been realizing that I have a lot of trouble with anything that has a lot of tabs, lots of data being displayed at once, lots of overhead. You might think that having it all _right there_ would make it better than keeping things in your head but it's actually far simpler to me to know shortcuts and a bunch of seperate things like the ways emacs handles buffers, where I'm only looking at one at a time. Now, before anyone feels the need to defend their habits & tools let me be clear that I'm talking about myself & what I notice about how I work, not making a general statement about what is objectively good or bad, were such a thing even possible.
+
+I've been using more cli programs to interact with services like discord, twitter, &c. because it turns out that doing so is just fundamentally easier for me. There's less visual noise, less thinking about the inteface, and less color and movement that breaks my attention.
+
+Even now, I'm using something even more minimalistic to write this post than emacs: _wordgrinder_
+
+http://cowlark.com/wordgrinder/index.html
+
+which I've grown to love. I even forked it so I can add little features I've been finding myself needing for blog writing, the first of which was .gmi export:
+
+https://github.com/clarissalittler/wordgrinder 
+
+and using wordgrinder in TTY mode is, well, strangely calming. I feel like there's a mental clutter that I'd gotten used to that isn't _there_ anymore.
+
+Similarly, I've moved to using alpine for handling my email and turning off all notifications on my other devices. I find that I can even read through mailing lists that were overwhelming to take in if I just live in a virtual terminal, set my console colors to something easy on the eyes, and use alpine. 
+
+I feel like I can't be the only one like this, can I? Someone for whom modern applications & services just feel like they put a pressure in your head that makes it harder to think?
+
+In these pandemic times so much of my ability to socialize is online but through a set of services that each make it hard for me to think and respond. The more I've been able to move communications to the command line the easier it's getting to respond to everything and keep track of it all. It's also making me resentful over the services I can't, like my rant about fb messenger here
+
+https://twitter.com/ClarissaAdjoint/status/1300486855972929536
+
+https://twitter.com/ClarissaAdjoint/status/1300490104423608320
+
+One of the other things I've been noticing since hanging out on rawtext.club is that command line tools _really are_ easier to combine with each other & that plain text _really is_ a great way to make programs talk to each other in flexible ways. I'd heard that ever since I first started using Linux, but I didn't really grasp it til the past few months. As such I've been getting more frustrated with things that don't work the way I want them to and aren't easily customizable.
+
+Maybe it's the mood of the pandemic getting to me but I've been feeling closed in by the software and services of the modern web and the closed gardens of Android or Apple. In wanting something better, I think we could do a lot worse than turning to the ideas that worked decades ago. Maybe we can't completely participate in the commercial web through clever, stripped down cli tools, but maybe we can at least make more of it on our own terms and take back some of our work from the cloud.
+
