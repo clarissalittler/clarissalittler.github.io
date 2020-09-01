@@ -13,7 +13,7 @@ Even while being a power use of Linux for years now, I've largely used a mix of 
 
 That's been changing since I started using a raspberry pi3 as a home server for various things: for awhile there it was our media server for watching movies, streaming Twitch, &c. with a janky mess of custom servers and scripts tying together existing projects to work the way I wanted. For example, the interface was a simple web page we could visit on our phones that included a dedicated button to play this video:
 
-https://www.youtube.com/watch?v=wNARPPnJrMM
+<https://www.youtube.com/watch?v=wNARPPnJrMM>
 
 As I've mentioned in previous posts, I'm spending a lot of time on the small internet: especially pubnixes like rawtext.club. This means I've been having to do a lot of things _only_ through the command line, even things that I hadn't thought of before like reading e-books, chatting, or maintaining & browsing collections of links. 
 
@@ -25,7 +25,7 @@ I'll talk more about it as a experience for low-powered machines once I've got t
 
 I tweeted
 
-https://twitter.com/ClarissaAdjoint/status/1300162870739521536
+<https://twitter.com/ClarissaAdjoint/status/1300162870739521536>
 
 recently about why I don't like IDEs, as I was trying to reflect about what it is that bothers me about them. It's the noise! Visual noise, I mean. I've been realizing that I have a lot of trouble with anything that has a lot of tabs, lots of data being displayed at once, lots of overhead. You might think that having it all _right there_ would make it better than keeping things in your head but it's actually far simpler to me to know shortcuts and a bunch of seperate things like the ways emacs handles buffers, where I'm only looking at one at a time. Now, before anyone feels the need to defend their habits & tools let me be clear that I'm talking about myself & what I notice about how I work, not making a general statement about what is objectively good or bad, were such a thing even possible.
 
@@ -33,11 +33,11 @@ I've been using more cli programs to interact with services like discord, twitte
 
 Even now, I'm using something even more minimalistic to write this post than emacs: _wordgrinder_
 
-http://cowlark.com/wordgrinder/index.html
+<http://cowlark.com/wordgrinder/index.html>
 
 which I've grown to love. I even forked it so I can add little features I've been finding myself needing for blog writing, the first of which was .gmi export:
 
-https://github.com/clarissalittler/wordgrinder 
+<https://github.com/clarissalittler/wordgrinder>
 
 and using wordgrinder in TTY mode is, well, strangely calming. I feel like there's a mental clutter that I'd gotten used to that isn't _there_ anymore.
 
@@ -47,9 +47,9 @@ I feel like I can't be the only one like this, can I? Someone for whom modern ap
 
 In these pandemic times so much of my ability to socialize is online but through a set of services that each make it hard for me to think and respond. The more I've been able to move communications to the command line the easier it's getting to respond to everything and keep track of it all. It's also making me resentful over the services I can't, like my rant about fb messenger here
 
-https://twitter.com/ClarissaAdjoint/status/1300486855972929536
+<https://twitter.com/ClarissaAdjoint/status/1300486855972929536>
 
-https://twitter.com/ClarissaAdjoint/status/1300490104423608320
+<https://twitter.com/ClarissaAdjoint/status/1300490104423608320>
 
 One of the other things I've been noticing since hanging out on rawtext.club is that command line tools _really are_ easier to combine with each other & that plain text _really is_ a great way to make programs talk to each other in flexible ways. I'd heard that ever since I first started using Linux, but I didn't really grasp it til the past few months. As such I've been getting more frustrated with things that don't work the way I want them to and aren't easily customizable.
 
