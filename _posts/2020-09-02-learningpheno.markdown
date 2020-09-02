@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Husserlian Phenomenology: A Reading List and Guide
+title: Introduction to Husserlian Phenomenology
 date: 2020-09-02 15:00:00
 categories: 
 ---
