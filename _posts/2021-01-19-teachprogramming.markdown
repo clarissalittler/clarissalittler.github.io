@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programming for autonomy: or, why I care about teaching programming
+title: Programming for autonomy
 date: 2021-1-19 13:30:00
 categories: 
 ---
