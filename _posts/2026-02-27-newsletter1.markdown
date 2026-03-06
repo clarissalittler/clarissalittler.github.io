@@ -1,0 +1,53 @@
+
+# Table of Contents
+
+1.  [Newsletter 1: Catching folks up on agents](#org80f8907)
+
+
+
+<a id="org80f8907"></a>
+
+# Newsletter 1: Catching folks up on agents
+
+Hey everyone,
+
+This is the first entry in what will hopefully be an ongoing attempt to share a bit more broadly the things I learn, discover, and experiment with in the world of LLMs and agentic systems. We'll start with some history catch-up and definitions then, by the end, move onto some of my own experiments and suggestions of how the technology is/isn't useful.
+
+So if you know me you know that part of my soapbox is that it's both *really hard* and *really important* to stay up to date on what's happening in this domain, but I should probably explain both of those claims. The first is easy enough: there are new releases and new tools basically all the time! Sure, each of the major private labs (DeepMind, OpenAI, Anthropic) **only** do releases every month or so now, but there are also the open source/open weight models being released each week and massive updates in agentic tools. For example, just this week Claude Code got a remote control ability so you can give it commands from your phone! Don't worry, I'll explain what that means in the sequel.
+
+First, I keep using the words agent/agentic but I haven't defined that. For the next bit here, if you watched the talk I gave a couple of times earlier in the term, this will be mildly redundant and you can feel free to skip ahead. For everyone else:
+
+There are two major developments over the past 18 months that took basic LLMs from "toys" to "can perform preferable to human baseline on a large number of approximately workday-length knowledge works tasks according to blind testing by experts". The first is "reasoning", a (and admittedly I'm oversimplifying a little here) trick where the LLM is allowed to generate a longer "internal monologue" of text as it works on answering a query. Surprisingly, this trick gives the machine the ability to try ideas out, explore possible solutions, and then double check its work before responding. This takes LLMs from "makes math mistakes and can't count letters or solve logic puzzles" to&#x2014;for example&#x2014;doing basic proofs in category theory that I'd expect a beginning grad student to be able to handle.
+
+The second development is tool-use. LLMs now have the ability to use other software as tools: these tools can vary from writing text into a file to running a compiler, grabbing information off the internet, reading a pdf, accessing a database, &c. The, err, reason this synergizes with reasoning is that a model can call tools as part of the "thinking" process and, depending on the results of those tool calls, make more tool calls and try even more things.
+
+So as of this time last year models started being capable of (i) making a plan (ii) calling tools in order to try and enact that plan (iii) examining the results of those calls (iv) modifying the plan and back to (ii) until it thinks it's solved the problem or is running out of its allotted work time.
+
+This was a powerful improvement: giving models the ability to take action, see the results, and then take further actions.
+
+In conjunction with just broad improvements in the technology, these two advances are why modern models do so well on tests like GDPVal; the aforementioned benchmark on the ability to do a curated set of knowledge work tasks across many different fields. With the release of Anthropic's Claude Opus 4.5 model in November, we now have a model that&#x2014;50% of the time&#x2014;was preferable to the work of human experts in blind judging. If we include both wins *and* ties it's approximately 70% of the time. There have been models released since November that seem to be even better performing on the kind of skills needed for GDPVal, however since this is a test that involves actual people doing the judging there's a long lag between release and when the testing is reported.
+
+Alright, with that history lesson aside what are *agents*? You could broadly argue that an agent is a computer program that is allowed to take repeated actions until it has accomplished its goal. These days, that generally means a tool-using, reasoning, LLM equipped with a bunch of useful tools and a scaffolding that lets it not just perform the kind of try-and-reflect workflow outlined above but also larger scale trial-and-error. The first domain agents started shining was in programming, because an agent can not only do research and write code but it can also compile, run, and test the code.
+
+When I mentioned Claude Code earlier, that's an agent that runs on your computer but relies on talking to Anthropic's Claude series of models as its "brain". Despite the name, Claude Code is just a general agent capable of doing almost any action that can be taken on a computer&#x2014;with your explicit permission, mind you. There's even a more "user friendly to non-computer scientists" version of it called Claude Cowork that a lot of folks can check out.
+
+Agents are catching on, rapidly. You may have heard some scuttlebutt about "OpenClaw/Clawdbot/Moltbot" (it had a rapid shift in names over a few weeks) and people setting up agents on second-hand Mac Mini-s to do everything from handle their emails, post on social media, or even annoy people listing their houses for high-prices but sending lowball offers. It had a viral moment in the news when a bunch of people connected their Claw instances to a "Facebook where only AIs can post", called Moltbook, and a lot of folks who haven't been following this scene got scared by the group roleplaying exercise and thought it was Terminator-style Skynet coming into being.
+
+Dear reader, it was not Skynet.
+
+It was pretty funny, though, as the agents posted silly meme posts like "when your human asks you to [&#x2026;]", complained about life as computers, and other funny things. Again, I must emphasize that they were clearly prompted to engage in a group roleplaying exercise and while a lot of the jokes and memes were emergent and surprising the intention to post was still human-directed and not a reflection of sentient will. 
+
+This is where I share some anecdata about my own use of agents. First, I've been using Claude Code and Codex (a similar tool made by OpenAI) to build little tools for myself: improving presentation software for talks I give, adding features to a legacy text-editor I like, making little scripts and utilities that help manage my documents. I've also had Claude Code help re-organize my personal collection of notes, fixing redundant tags and linking between ideas I hadn't connected properly. There are a number of other small things like "taking my handwritten solutions and turning them into LaTeX" but the big thing I want to talk about that's relevant to all of us is *revising course materials*.
+
+Over the past couple of weeks I've been revising classes in preparation for the next term: not small revisions either. I've been taking one of my classes, CS201 specifically, and completely re-organizing my old text, tutorials, &c. to be more in line with how I teach the class after a few years more experience with it. Claude Code has been spectacular at doing this re-organizing, taking my handwritten notes and my old materials then turning them into HTML, taking that HTML and re-organizing it, fact-checking claims and double checking dates, extracting code snippets and making sure there are no bugs, &c. It took several hours to do what would have been a summer project at minimum. Flipping through the results, using a tiny custom local webserver it made for me, was pretty quick and painless. I could count the number of mistakes it made on one hand and they weren't *factual* mistakes but rather subjective misjudgments of what I had intended, e.g. no you don't have to put a note to students in the overview of a module that it used to be two different modules that are compressed together now, silly.
+
+The point of this, of course, is that this unlocks a completely new kind of work for us: one where we can rapidly make changes to our classes, our assignments, &c. by massively reducing the overhead of edits and revisions. I'm not even talking about having the machine "generate" your course content, I mean these tools are sophisticated enough to understand high-level editing and organizing directives. If you change an assignment, it can go through your materials and tell you if the scaffolding for the assignment is there. If you want to include more references and links, it can find them for you and integrate them into the right places. My point isn't "oh, look, I was able to do my job faster" it's "oh, look, I managed to actually do this thing that I've wanted to but never had vaguely enough time". My "wouldn't it be nice one day" to-dos are getting done for the first time.
+
+This is a very different world than even two years ago, when the best it could do for us in our curricular work was "brainstorm class activity ideas for me" which honestly I found so useless I never even bothered. That's part of what I want to convey here: we went from toy to competent digital assistant/coworker in less than two years.
+
+So that's my rough attempt to summarize recent developments in agents and my perspective on them. What should you try? I don't think it would be a wild idea to test out something like Claude Code or Claude Cowork. It takes a certain amount of pratice to work with them well, not because of "prompt engineering" which is a largely outdated concept but because it takes practice to be able to even *think* of what they can do.
+
+It really is like suddenly having an assistant when you've never had one before. "What should I do?" the assistant asks and you have no idea because you've never *not* done everything yourself.
+
+Well, thanks for reading this far if you did and in a week or two, now that we've gotten through some of the prologue, I'll probably be sharing more model releases, more workflows, and some links to papers and books that are helpful for understanding and thinking about this moment.
+

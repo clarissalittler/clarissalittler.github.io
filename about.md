@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a programming and computer science educator based in Portland, OR. I currently work for [Pixel Arts Game Education](http://gameeducationpdx.com).
+I'm computer science faculty based in Portland, OR. 
 
 In a former career, my academic interests and research was in:
 
@@ -12,3 +12,5 @@ In a former career, my academic interests and research was in:
 + mathematical logic
 + proof assistants
 + and making all of the above more accessible outside academia
+
+My informal work is largely in philosophy: specifically in phenomenology, intentionality, and theories of hybrid consciousness and thinking.
