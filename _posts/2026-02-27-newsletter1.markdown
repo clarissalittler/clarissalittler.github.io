@@ -4,9 +4,6 @@ title:  "Newsletter 1: Catching folks up on agents"
 date:   2026-02-27 15:00:00
 categories:
 ---
-
-# Newsletter 1: Catching folks up on agents
-
 Hey everyone,
 
 This is the first entry in what will hopefully be an ongoing attempt to share a bit more broadly the things I learn, discover, and experiment with in the world of LLMs and agentic systems. We'll start with some history catch-up and definitions then, by the end, move onto some of my own experiments and suggestions of how the technology is/isn't useful.
