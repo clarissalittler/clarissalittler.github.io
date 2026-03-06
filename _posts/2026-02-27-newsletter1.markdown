@@ -1,11 +1,9 @@
-
-# Table of Contents
-
-1.  [Newsletter 1: Catching folks up on agents](#org80f8907)
-
-
-
-<a id="org80f8907"></a>
+---
+layout: post
+title:  "Newsletter 1: Catching folks up on agents"
+date:   2026-02-27 15:00:00
+categories:
+---
 
 # Newsletter 1: Catching folks up on agents
 
