@@ -8,5 +8,8 @@ url: "http://clarissalittler.github.io/" # the base hostname & protocol for your
 twitter_username: ClarissaAdjoint
 github_username:  clarissalittler
 
+# Posts before this year appear in the Old posts archive.
+archive_before_year: 2026
+
 # Build settings
 markdown: kramdown

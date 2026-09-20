@@ -1,0 +1,22 @@
+---
+layout: page
+title: Old posts
+permalink: /old-posts/
+---
+
+<p>Posts from before {{ site.archive_before_year }}.</p>
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    {% assign post_year = post.date | date: "%Y" | plus: 0 %}
+    {% if post_year < site.archive_before_year %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
