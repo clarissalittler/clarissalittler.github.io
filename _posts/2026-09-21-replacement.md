@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Being Replaced by AI"
-date: 2026-09-21 5:00:00
+date: 2026-09-20 20:00:00
 categories:
 ---
 
