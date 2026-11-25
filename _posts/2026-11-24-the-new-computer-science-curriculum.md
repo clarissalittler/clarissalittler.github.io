@@ -13,11 +13,11 @@ This is not an argument for "breadth vs. depth", it is an argument for depth by 
 
 The new curriculum needs to teach the *algebra* of programming, how to sketch out even reasonably complex code's behavior on pen and paper and understand when steps in a computation can be commuted or separated or when two programs that look very different are, in fact, the same computation.
 
-The new curriculum includes *more* math and logic, it include introduction to proof assistants and formal methods. After their first year, a student should be able to describe the Curry-Howard correspondence and its implications and be able to read and write simple proofs in dependently typed theory.
+The new curriculum includes *more* math and logic, it includes an introduction to proof assistants and formal methods. After their first year, a student should be able to describe the Curry-Howard correspondence and its implications and be able to read and write simple proofs in dependently typed theory.
 
 The next generation of students needs to be introduced to reading research papers, especially formative papers in the history of computer science. The future CS student needs to be grounded enough in all the work that has come before that they can *guide* the machine with their superior research vision rather than being puppeted by an agent in a loop of nearly automatic approvals.
 
-These students must be able to write code as a way of clarifying their thoughts and to read clever, even obtuse, code made by agents. They must to be able to specify theorems, properties, tests that code must satisfy.
+These students must be able to write code as a way of clarifying their thoughts and to read clever, even obtuse, code made by agents. They must be able to specify theorems, properties, tests that code must satisfy.
 
 They must be able to work at any level of abstraction, high or low, and be able to articulate the architecture of a large project.
 
